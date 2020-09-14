@@ -10,4 +10,4 @@ and then running the Jupyter Notebooks:
 
 zero-shot_experiments.jpynb
 
-system_specific-experriements.jpynb
+system_specific_experiments.jpynb
