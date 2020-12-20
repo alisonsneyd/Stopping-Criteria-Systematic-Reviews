@@ -51,7 +51,7 @@ def get_points(windows, window_size, rel_list):
 
 
 # fn to fit curve to points
-def model_func(x, a, k, b): # x = vector x values
+def model_func(x, a, k): # x = vector x values
     return a*np.exp(-k*x) 
 
 
